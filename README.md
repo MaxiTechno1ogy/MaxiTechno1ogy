@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MaxiTechno1ogy
+- 👀 I’m interested in Flutter and PHP
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me flechtner@techno1ogy.de
